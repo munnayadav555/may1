@@ -1,0 +1,6 @@
+<?php
+$user_name=$_POST["user_name"];
+$pass_word=$_POST["pass_word"];
+echo 'user_name'. 'pass_word';
+?>
+
